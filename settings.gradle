@@ -1,0 +1,3 @@
+include ':sdk_pos_otc_ct'
+include ':app'
+rootProject.name = "DemoCajaTrujilloOct"
